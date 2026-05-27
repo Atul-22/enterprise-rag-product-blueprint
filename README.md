@@ -106,6 +106,7 @@ QUERY PIPELINE (per user question)
 MEMORY LAYER
 └── Postgres Chat Memory → persists conversation context across sessions
 ```
+<img width="1431" height="577" alt="image" src="https://github.com/user-attachments/assets/3df9e398-131e-4956-a25a-f94c1c821608" />
 
 ### Components
 
