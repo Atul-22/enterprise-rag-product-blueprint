@@ -1,4 +1,4 @@
-# 🏌️ Hybrid RAG Golf Rules Assistant
+# 🏌️ Enterprise RAG Product Blueprint
 ### A PM-Led Deep Dive into Building Privacy-First AI at Scale
 
 > **TL;DR** — An enterprise-grade RAG system where embeddings stay local (zero data leakage) and cloud LLMs handle only reasoning. Built to pressure-test the real trade-offs PMs face when shipping AI features without burning budgets or losing enterprise deals.
